@@ -1,2 +1,2 @@
 1232312313
-c7d9b90d3d25bd57596b7b91d6fae6ec583cab8022d00221d8824b63298980da
+c7d9b90d3d25bd57596b7b91d6fae6ec583cab8022d00221d8824b63298980da|https://raw.githubusercontent.com/nedsion/key/main/devices.txt
